@@ -49,4 +49,4 @@ hero:
 5. `인증 없음` 선택 (추후에 인증 기능 추가 가능)
 6. `만들기`
 
-
+<script client type="text/javascript" src="https://openapi.nexon.com/js/analytics.js?app_id=237485" async></script>
