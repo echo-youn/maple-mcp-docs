@@ -5,6 +5,9 @@ export default defineConfig({
   srcDir: "docs",
   
   title: "Maplestory MCP Docs",
+  base: '/',
+  cleanUrls: true,
+  appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
