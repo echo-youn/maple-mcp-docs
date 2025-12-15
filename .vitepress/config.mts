@@ -21,9 +21,5 @@ export default defineConfig({
     ],
 
     sidebar: [],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/echo-youn/maple-mcp-docs' }
-    ]
   }
 })

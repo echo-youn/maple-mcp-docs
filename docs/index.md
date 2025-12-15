@@ -14,7 +14,7 @@ hero:
 {
   "mcpServers": {
     "maple-mcp": {
-      "url": "https://oci-alb.echo-youn.com/maple-mcp/mcp"
+      "url": "https://mcp.zzez.co.kr/maple-mcp/mcp"
     }
   }
 }
